@@ -1,0 +1,7 @@
+# docs/_config.yml
+# Exclui arquivos problemáticos (se não forem necessários)
+exclude:
+  - assets/css/style.scss
+
+# Ou, se o problema for a falta de um tema completo
+# theme: null # Tenta não usar o tema padrão
