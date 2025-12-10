@@ -1,0 +1,1 @@
+{"_invocation_id": "84e78f95-24bd-4a20-82b4-170ea3dff463", "linked": {"0": {"name": "model.chicago_crime_dbt.fct_crime_clean", "type": "model"}, "1": {"name": "model.chicago_crime_dbt.stg_crime__cleaned", "type": "model", "succ": [0]}, "2": {"name": "model.chicago_crime_dbt.stg_crime__raw", "type": "model", "succ": [1]}}}
