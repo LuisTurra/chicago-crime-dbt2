@@ -6,7 +6,10 @@ De logs brutos da polícia → tabela 100 % limpa e pronta para análise ou ML.
 **DBT doc**  
 https://luisturra.github.io/chicago-crime-dbt2/#!/overview/chicago_crime_dbt
 
-**Live Dashboard (Looker Studio – atualiza automaticamente)**  
+**Live Dashboard dos Dados (Looker Studio – atualiza automaticamente)**  
+https://lookerstudio.google.com/reporting/91ab3ed8-d170-41f4-99b0-87a61688ba65
+
+**Live Dashboard de Mapa (Looker Studio – atualiza automaticamente)**  
 https://lookerstudio.google.com/reporting/91ab3ed8-d170-41f4-99b0-87a61688ba65
 
 ### O que foi feito (limpeza real de produção)
